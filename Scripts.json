@@ -1,1 +1,14 @@
-
+{
+  "script_1": {
+    "name": "Retro Admin",
+    "image": 123456789,
+    "placeId": 0,
+    "script": "print('Hello RetroStudio!')"
+  },
+  "script_2": {
+    "name": "Fly Script",
+    "image": 987654321,
+    "placeId": 123456,
+    "script": "loadstring(game:HttpGet('https://example.com/fly.lua'))()"
+  }
+}
