@@ -2,7 +2,7 @@
   "script_1": {
     "name": "Retro Admin",
     "image": 123456789,
-    "placeId": 166118519_3,
+    "placeId": "166118519_3",
     "script": "print('Hello RetroStudio!')"
   },
   "script_2": {
