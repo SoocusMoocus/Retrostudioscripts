@@ -1,8 +1,8 @@
 {
   "script_1": {
-    "name": "Fly Script",
-    "image": 15661735512,
-    "placeId": 123456,
-    "script": "loadstring(game:HttpGet('https://example.com/fly.lua'))()"
+    "name": "NDS Bring Parts",
+    "image": 120565325399356,
+    "placeId": 212711422_4,
+    "script": "loadstring(game:HttpGet("https://pastebin.com/raw/TihMhyyh"))()"
   }
 }
