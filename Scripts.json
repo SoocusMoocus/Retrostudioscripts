@@ -1,7 +1,7 @@
 {
   "script_1": {
     "name": "NDS Bring Parts",
-    "image": 120565325399356,
+    "image": 75756933857153,
     "placeId": "212711422_4",
     "script": "loadstring(game:HttpGet(\"https://pastebin.com/raw/TihMhyyh\"))()"
   }
